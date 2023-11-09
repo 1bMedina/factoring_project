@@ -65,7 +65,7 @@ h1 {
 }
 p{
     font-family: 'amyshandwriting';
-    font-size: 1.3rem;
+    font-size: 1.1rem;
 }
 li {
     font-family: 'amyshandwriting';
@@ -88,5 +88,69 @@ li {
     position: absolute;
     top: 20%;
     transform: rotate(310deg);
+
+}
+#img2{
+    display: block;
+    margin-left: 800px;
+    margin-right: auto;
+    position: absolute;
+    top:15%;
+
+}
+#box1{
+    width:250px;
+	height:250px;
+	margin:60px;
+	padding:20px;
+    background-color: #0077b6;
+    border-radius: 25px;
+    position: absolute;
+    top: 55%;
+    right: 32%;
+}
+#box3{
+    width:250px;
+	height:250px;
+	margin:60px;
+	padding:20px;
+    background-color: #0077b6;
+    border-radius: 25px;
+    position: absolute;
+    top: 55%;
+    right: 14%;
+}
+#box4{
+    width:250px;
+	height:250px;
+	margin:60px;
+	padding:20px;
+    background-color: #0077b6;
+    border-radius: 25px;
+    position: absolute;
+    top: 55%;
+    right: -4%;
+}
+#para2{
+    width:400px;
+	height:600px;
+	margin:60px;
+	padding:20px;
+    background-color: #0077b6;
+    border-radius: 25px;
+    position: absolute;
+    top: 10%;
+    font-size: larger;
+    left: 60%;
+}
+#starimg{
+    position:absolute;
+    top: 25%;
+    left: 34%;
+}
+#imggcf{
+    position:absolute;
+    top: 30%;
+    left: 50%;
 
 }
